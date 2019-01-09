@@ -1,0 +1,45 @@
+vasudhaa1987
+me@git123
+<<<<<<< HEAD
+
+=======
+by vasudha
+master branch
+new branch process
+>>>>>>> 535356e7e85de7cc342876d1dd8dc8e569f3b9b5
+
+git-add - Add file contents to the index code from local area to staging area
+
+git-commit - move the code form stage area to git repository
+
+*** Commands ***
+      1: status       2: update       3: revert       4: add untracked
+      5: patch        6: diff         7: quit         8: help
+    What now> 1
+cd D:
+cd GIT_Training
+git init - Initialized empty Git repository in D:/GIT_Training/.git/
+git config --list
+git config --global
+git config --global --list
+git config --global user.name "vasudha.anand"
+git config --global user.email "vasudha.anand@timesinternet.in"
+ls
+git status
+git add . or git add Code1.txt
+git commit
+git remote add origin https://github.com/vasudhaa1987/GIT_Training.git
+git remote rm origin https://github.com/vasudhaa1987/GIT_Training.git
+
+https://github.com/vasudhaa1987/GIT_Training.git
+
+new change 13:04
+
+Changes by Swati
+new changes by another dev
+new branch added
+branch test changes
+branch 3 changes
+branch remote change
+branch local change
+
